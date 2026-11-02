@@ -6,7 +6,7 @@ body {
 <link href="https://fonts.googleapis.com/css2?family=Redaction+35:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
 h1 {
   color: black;
-  font-family: 'Redaction 35', sans-serif;
+  font-family: 'Redaction 35';
 }
 p {
   color: black;
@@ -19,5 +19,5 @@ p {
 }
 
 #unique-id {
-  font-family: Arial, Comic Sans MS, sans-serif; /** you can specify common font families OR link to a Google Font API **/
+  font-family: Arial, Comic Sans MS, Redaction 35; /** you can specify common font families OR link to a Google Font API **/
 }
