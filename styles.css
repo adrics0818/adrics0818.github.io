@@ -20,6 +20,17 @@ body {
 		z-index: 1000;
 }
 
+.top-banner a {
+	color: #ffffff;
+	text-decoration: underline;
+	margin-left: 5px;
+}
+
+.main-contenct {
+	margin-top: 50px;
+	padding: 20px;
+}
+
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Redaction+35:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
