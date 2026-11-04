@@ -8,39 +8,17 @@ body {
 	box-sizing: border-box;
 }
 	
-.top-banner {
-		position: fixed;
-		top: 0;
-		left 0;
-		width: 100%;
-		background-color: #ff5722;
-		color: #ffffff;
-		text-align: center;
-		padding: 12px 20px;
-		font-family: "Redaction 35"
-		z-index: 1000;
-}
 
-.top-banner a {
-	color: #ffffff;
-	text-decoration: underline;
-	margin-left: 5px;
-}
 
-.main-contenct {
-	margin-top: 50px;
-	padding: 20px;
-}
-
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Redaction+35:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
 
 
 h1 {
+	background-color: #F5F3EF;
+    color: #514B43;
+    font-family: 'Trebuchet MS', sans-serif;
+    margin: 0;
+    padding: 30px;
   color: black;
-  font-family: "gf_Redaction_35 variant0", Tofu, "Redaction 35";
-  background-color: #294386;
 }
 p {
   color: black;
