@@ -13,22 +13,15 @@ body {
 
 
 h1 {
-	background-color: #F5F3EF;
-    color: #514B43;
-    font-family: 'Trebuchet MS', sans-serif;
-    margin: 0;
-    padding: 30px;
   color: black;
+  font-family: "gf_Redaction_35 variant0", Tofu, "Redaction 35";
+  background-color: #294386;
 }
 p {
   color: black;
 }
 /** CSS comments are written enclosed with these characters **/
 
-
-.myclass {
-  background-color: #6acce5; /** hex codes also work for colors **/
-}
 
 #unique-id {
   font-family: Arial, Comic Sans MS, Redaction 35; /** you can specify common font families OR link to a Google Font API **/
